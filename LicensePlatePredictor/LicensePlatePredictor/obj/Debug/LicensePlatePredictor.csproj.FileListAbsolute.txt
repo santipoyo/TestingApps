@@ -1,0 +1,6 @@
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\bin\Debug\LicensePlatePredictor.exe.config
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\bin\Debug\LicensePlatePredictor.exe
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\bin\Debug\LicensePlatePredictor.pdb
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\obj\Debug\LicensePlatePredictor.csprojResolveAssemblyReference.cache
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\obj\Debug\LicensePlatePredictor.exe
+C:\Users\Yadira\Google Drive\Workdir\Stack Builders\Testing App 1\LicensePlatePredictor\LicensePlatePredictor\obj\Debug\LicensePlatePredictor.pdb
